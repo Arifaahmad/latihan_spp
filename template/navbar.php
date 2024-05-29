@@ -1,4 +1,4 @@
-<div class="navbar-bg"></div>
+ya<div class="navbar-bg"></div>
       <nav class="navbar navbar-expand-lg main-navbar">
         <form class="form-inline mr-auto">
           <ul class="navbar-nav mr-3">
@@ -196,7 +196,7 @@
           </li>
           <li class="dropdown"><a href="#" data-toggle="dropdown" class="nav-link dropdown-toggle nav-link-lg nav-link-user">
             <img alt="image" src="https://i.pinimg.com/736x/90/15/5c/90155c6df96d50714eac979af1f28841.jpg" class="rounded-circle mr-1">
-            <div class="d-sm-none d-lg-inline-block">Hi, Arifa Ahmad Z</div></a>
+            <div class="d-sm-none d-lg-inline-block">Hi, kamu</div></a>
             <div class="dropdown-menu dropdown-menu-right">
               <div class="dropdown-title">Logged in 5 min ago</div>
               <a href="features-profile.html" class="dropdown-item has-icon">
